@@ -1,2 +1,2 @@
 # Cajero
-Aplicación escritorio  Aplicando las Clases, Objetos y atributos POO
+Aplicación escritorio, JAVA Aplicando las Clases, Objetos y atributos POO.
